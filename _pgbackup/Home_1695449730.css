@@ -186,8 +186,7 @@
 
 .u-section-2 {
     background-image: none;
-    height: 200px;
-    margin-top: 1px;
+    height: 271px;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -229,10 +228,6 @@
 @media (max-width: 767px) {
     .u-section-2 .u-text-1 {
         margin-right: 0;
-        padding-top: 0px;
-        padding-bottom: 0px;
-        margin-bottom: -1px;
-        margin-top: 5px;
     }
 
     .u-section-2 .u-text-2 {
